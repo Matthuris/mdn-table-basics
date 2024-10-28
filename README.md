@@ -1,1 +1,1 @@
-HTML table basic practice by mdn.
+HTML table basics practice by mdn.
